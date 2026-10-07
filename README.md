@@ -1,0 +1,1 @@
+# genai-solutions-course
